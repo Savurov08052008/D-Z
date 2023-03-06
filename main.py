@@ -1,0 +1,5 @@
+print("Maxanizatsiyalashtirishmoqchiliginiaytganinibilibqoldim"[0:2])
+print("Maxanizatsiyalashtirishmoqchiliginiaytganinibilibqoldim"[0:])
+print("Maxanizatsiyalashtirishmoqchiliginiaytganinibilibqoldim"[:-1])
+print("Maxanizatsiyalashtirishmoqchiliginiaytganinibilibqoldim"[::2])
+print("Maxanizatsiyalashtirishmoqchiliginiaytganinibilibqoldim"[::-1])
